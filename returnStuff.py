@@ -19,7 +19,9 @@ def returnS():
 # Create a variable called dollars and store any amount in it. Then, pass it to your function and evaluate its result.
 
 # Hint: to perform the conversion, the function internally must multiply this value in dollars by 0.90 to obtain the equivalent amount in euros.
-
+def usd_to_eur():
+  usd = int(input("Amount of money in USD: "))
+  print (usd * 0.90)
 
 
 

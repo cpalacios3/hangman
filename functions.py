@@ -1,5 +1,4 @@
-def function():
-  pass
+
 #   Create Functions Practice #1
   # Declare a function called greet, which every time it is called prints "Hello world!"
   
